@@ -36,4 +36,4 @@ const pirate = [
   {name:'Takanome ',id :'7'},
 ]
 // const testObj={name:'rishi'}
-module.exports = {pirate,ninja};
+module.exports = {pirate};
